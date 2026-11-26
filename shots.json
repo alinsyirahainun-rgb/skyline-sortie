@@ -1,0 +1,14 @@
+[
+  {
+    "name": "1-cockpit.png",
+    "query": "?shot=cockpit&seed=1"
+  },
+  {
+    "name": "2-approach.png",
+    "query": "?shot=approach&seed=1"
+  },
+  {
+    "name": "3-action.png",
+    "query": "?shot=action&seed=1"
+  }
+]

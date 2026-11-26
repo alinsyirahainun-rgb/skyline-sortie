@@ -1,0 +1,4 @@
+# Build output and local tooling: the entry ships the source, not the built dossier.
+out/
+out2/
+node_modules/
